@@ -2,7 +2,6 @@
 Exploring Neural networks - primarily interested in NLP transformers in pytorch
 
 ### NLP on the standalones - transfer learning for BERT :
-THIS WON'T LOAD ON MY WINDOWS MACHINE -NOT SURE ON THE ERROR.
 BERT for text summarization (opengenus.org)
 Text Summarization using BERT, GPT2, XLNet | by Sukanya Bag | Analytics Vidhya | Medium 
 
